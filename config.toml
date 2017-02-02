@@ -1,11 +1,11 @@
 languageCode = "en-us"
-title = "Jacky's Blog"
+title = "知行合一"
 baseurl = "https://jackypanster.github.io/blog/"
 theme = "bootie-docs"
 copyright = "Copyright (c) 2017, Jacky Pan; All rights reserved."
 
 [params]
-  description = "Brief description for your site."
+  description = "知是行之始，行是知之成。若会得时，只说一个知，已自有行在。只说一个行，已自有知在。"
   withSitePosts = true
   searchDomain = "jackypanster.github.io"
   noCategoryLink = true
@@ -20,9 +20,9 @@ copyright = "Copyright (c) 2017, Jacky Pan; All rights reserved."
   #name = "Usage"
   #link = "usage/"
 
-#[[params.mainMenu]]
-  #name = "Index"
-  #link = "demo/"
+[[params.mainMenu]]
+  name = "Quant"
+  link = "quant/"
 
 [[params.mainMenu]]
   name = "Travel"

@@ -5,5 +5,3 @@ draft = false
 tags = ["travel"]
 categories = ["travel"]
 +++
-
-# dubai
