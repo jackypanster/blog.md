@@ -1,0 +1,29 @@
+languageCode = "en-us"
+title = "Jacky's Blog"
+baseurl = "https://jackypanster.github.io/blog/"
+theme = "bootie-docs"
+copyright = "Copyright (c) 2017, Jacky Pan; All rights reserved."
+
+[params]
+  description = "Brief description for your site."
+  withSitePosts = true
+  searchDomain = "jackypanster.github.io"
+  noCategoryLink = true
+  repositoryUrl = "https://jackypanster.github.io/blog/"
+  highlightStyle = "github"
+
+[[params.mainMenu]]
+  name = "Book"
+  link = "book/"
+
+#[[params.mainMenu]]
+  #name = "Usage"
+  #link = "usage/"
+
+#[[params.mainMenu]]
+  #name = "Index"
+  #link = "demo/"
+
+[[params.mainMenu]]
+  name = "Travel"
+  link = "travel/"
