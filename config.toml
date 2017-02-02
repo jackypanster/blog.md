@@ -8,7 +8,7 @@ copyright = "Copyright (c) 2017, Jacky Pan; All rights reserved."
   description = "知是行之始，行是知之成。若会得时，只说一个知，已自有行在。只说一个行，已自有知在。"
   withSitePosts = true
   searchDomain = "jackypanster.github.io"
-  noCategoryLink = true
+  noCategoryLink = false
   repositoryUrl = "https://jackypanster.github.io/blog/"
   highlightStyle = "github"
 
@@ -16,9 +16,9 @@ copyright = "Copyright (c) 2017, Jacky Pan; All rights reserved."
   name = "Book"
   link = "book/"
 
-#[[params.mainMenu]]
-  #name = "Usage"
-  #link = "usage/"
+[[params.mainMenu]]
+  name = "Coding"
+  link = "coding/"
 
 [[params.mainMenu]]
   name = "Quant"
