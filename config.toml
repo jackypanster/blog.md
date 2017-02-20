@@ -7,7 +7,7 @@ copyright = "Copyright (c) 2017, Jacky Pan; All rights reserved."
 [params]
   description = "知是行之始，行是知之成。若会得时，只说一个知，已自有行在。只说一个行，已自有知在。"
   withSitePosts = true
-  searchDomain = "jackypanster.github.io"
+  #searchDomain = "jackypanster.github.io"
   noCategoryLink = false
   repositoryUrl = "https://jackypanster.github.io/blog/"
   highlightStyle = "github"
