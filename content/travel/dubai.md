@@ -8,7 +8,7 @@ categories = ["travel"]
 
 ## 棕榈岛亚特兰蒂斯酒店
 
-- 迪拜清晨
+- 沙滩清晨
 
 ![](../../../blog/dubai/IMG_8702.png)
 
@@ -16,7 +16,7 @@ categories = ["travel"]
 
 ![](../../../blog/dubai/IMG_8752.png)
 
-- 海底世界
+- 水族馆
 
 ![](../../../blog/dubai/IMG_8716.png)
 
@@ -34,7 +34,7 @@ categories = ["travel"]
 
 ![](../../../blog/dubai/IMG_9785.png)
 
-- 鸟瞰全城
+- 800米高空鸟瞰全城
 
 ![](../../../blog/dubai/IMG_9726.png)
 
@@ -51,3 +51,7 @@ categories = ["travel"]
 - 龙门客栈
 
 ![](../../../blog/dubai/IMG_9947.png)
+
+- 沙漠日落
+
+![](../../../blog/dubai/IMG_9878.png)
