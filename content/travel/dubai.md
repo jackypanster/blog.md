@@ -6,33 +6,35 @@ tags = ["travel"]
 categories = ["travel"]
 +++
 
-## Day 1 到达亚特兰蒂斯酒店
+## 棕榈岛亚特兰蒂斯酒店
 
 - 迪拜清晨
 
 ![](../../../blog/dubai/IMG_8702.png)
 
-- 无敌海景房
-
-![](../../../blog/dubai/IMG_8650.png)
-
 - 海天一色
 
 ![](../../../blog/dubai/IMG_8752.png)
-
-## Day 2 自驾出游
 
 - 海底世界
 
 ![](../../../blog/dubai/IMG_8716.png)
 
+## 自驾出游
+
+- 帆船酒店
+
+![](../../../blog/dubai/IMG_8868.png)
+
 - 阿布扎比清真寺
 
 ![](../../../blog/dubai/IMG_0010.png)
 
-## Day 3 迪拜哈利法塔
+- 音乐喷泉
 
-## Day 4 沙漠之旅
+![](../../../blog/dubai/IMG_9753.png)
+
+## 沙漠之旅
 
 - 黄沙万里
 
@@ -41,6 +43,3 @@ categories = ["travel"]
 - 龙门客栈
 
 ![](../../../blog/dubai/IMG_9947.png)
-
-
-## Day 5
