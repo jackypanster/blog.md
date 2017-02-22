@@ -12,9 +12,9 @@ categories = ["travel"]
 
 ## Day 3
 
-## Day 4: 沙漠冲浪之行
+## Day 4: 沙漠之旅
 
-- 冲浪的车队都开车去客栈吃饭
+- 龙门客栈
 ![](../../../blog/dubai/IMG_9947.png)
 
 
