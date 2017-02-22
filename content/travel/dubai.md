@@ -16,9 +16,13 @@ categories = ["travel"]
 
 ![](../../../blog/dubai/IMG_8752.png)
 
-## Day 2
+## Day 2 棕榈岛游玩
 
-## Day 3
+- 海底世界
+
+![](../../../blog/dubai/IMG_8716.png)
+
+## Day 3 迪拜哈利法塔
 
 ## Day 4 沙漠之旅
 
