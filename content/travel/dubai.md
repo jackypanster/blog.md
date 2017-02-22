@@ -14,7 +14,12 @@ categories = ["travel"]
 
 ## Day 4: 沙漠之旅
 
+- 黄沙万里
+
+![](../../../blog/dubai/IMG_9871.png)
+
 - 龙门客栈
+
 ![](../../../blog/dubai/IMG_9947.png)
 
 
