@@ -30,6 +30,14 @@ categories = ["travel"]
 
 ![](../../../blog/dubai/IMG_0010.png)
 
+- 迪拜哈利法塔
+
+![](../../../blog/dubai/IMG_9785.png)
+
+- 鸟瞰全城
+
+![](../../../blog/dubai/IMG_9726.png)
+
 - 音乐喷泉
 
 ![](../../../blog/dubai/IMG_9753.png)
