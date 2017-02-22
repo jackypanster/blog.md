@@ -16,11 +16,15 @@ categories = ["travel"]
 
 ![](../../../blog/dubai/IMG_8752.png)
 
-## Day 2 棕榈岛游玩
+## Day 2 自驾出游
 
 - 海底世界
 
 ![](../../../blog/dubai/IMG_8716.png)
+
+- 阿布扎比清真寺
+
+![](../../../blog/dubai/IMG_0010.png)
 
 ## Day 3 迪拜哈利法塔
 
