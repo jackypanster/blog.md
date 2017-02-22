@@ -8,6 +8,10 @@ categories = ["travel"]
 
 ## Day 1 到达亚特兰蒂斯酒店
 
+- 迪拜清晨
+
+![](../../../blog/dubai/IMG_8702.png)
+
 - 无敌海景房
 
 ![](../../../blog/dubai/IMG_8650.png)
