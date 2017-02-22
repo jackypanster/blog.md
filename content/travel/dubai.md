@@ -6,13 +6,21 @@ tags = ["travel"]
 categories = ["travel"]
 +++
 
-## Day 1
+## Day 1 到达亚特兰蒂斯酒店
+
+- 无敌海景房
+
+![](../../../blog/dubai/IMG_8650.png)
+
+- 海天一色
+
+![](../../../blog/dubai/IMG_8752.png)
 
 ## Day 2
 
 ## Day 3
 
-## Day 4: 沙漠之旅
+## Day 4 沙漠之旅
 
 - 黄沙万里
 
