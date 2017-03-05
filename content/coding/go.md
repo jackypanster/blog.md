@@ -1,8 +1,8 @@
 +++
-categories = ["book"]
+categories = ["programming"]
 date = "2017-03-05T15:52:52+08:00"
 title = "go"
-tags = ["go", "coding"]
+tags = ["go"]
 
 +++
 

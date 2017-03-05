@@ -1,6 +1,6 @@
 +++
 tags = ["learn"]
-categories = ["document"]
+categories = ["article"]
 date = "2017-03-05T22:32:40+08:00"
 title = "the only technique to learn something new"
 
